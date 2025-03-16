@@ -42,7 +42,7 @@ MSTFT-Demo/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MSTFT-Demo.git
+   git clone https://github.com/supersokol/MSTFT.git
    cd MSTFT-Demo
    ```
 2. (Optional) Set up a virtual environment and install dependencies:
