@@ -9,8 +9,8 @@ Thank you for your interest in contributing to this project!
 
 2. **Clone Your Fork**  
    ```bash
-   git clone https://github.com/your-username/MSTFT-Demo.git
-   cd MSTFT-Demo
+   git clone https://github.com/supersokol/MSTFT.git
+   cd MSTFT
    ```
 3. **Create a Branch**
    ```bash
