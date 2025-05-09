@@ -3,6 +3,7 @@
 import os
 import logging
 
+
 def get_client_config():
     """
     Returns a configuration dictionary for the MSTFT demo.
